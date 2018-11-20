@@ -1,0 +1,2 @@
+# nixos
+Auto installing nixos
